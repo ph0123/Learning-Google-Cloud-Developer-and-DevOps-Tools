@@ -4,9 +4,9 @@ Link: [Here](https://www.linkedin.com/learning/learning-google-cloud-developer-a
     * User authentication and authorization
     * GCP services and menus
     * Key Google Cloud services: Comepute 
-        * gcloud compute instances list --> check all virtual machine on GCP
+        - gcloud compute instances list --> check all virtual machine on GCP
     * Key Google Cloud services: Files and Data
-            * search "Bucket" to the Files and Data. 
+        - search "Bucket" to the Files and Data. 
     * Key Google Cloud services: IAM and more
     * Quiz
         * Question 1 of 5: What feature can you use to quickly locate particular cloud services?
