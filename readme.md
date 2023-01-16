@@ -36,13 +36,38 @@ Link: [Here](https://www.linkedin.com/learning/learning-google-cloud-developer-a
         * Permissions
 # 2. Tools for Data Scientists
   * Enable APIs for DLVMs
-  *
-  *
-  *
-  *
-  *
+  * Using Google Cloud or SDK with terminal
+  * Using Google Colab notebooks
+  * Using Google-managed notebooks
+  * Using Big Query ML
+  * Quiz:
+    * Question 1 of 5: What URL will allow you to access a Colab Notebook?
+      * www.kaggle.com
+      * cloud.google.com
+      * www.colab.com
+      * colab.research.google.com (Correct Answer)
+    * Question 2 of 5: You want to shutdown the DLVM. Which command should you run?
+      * gcloud compute instances stop $INSTANCE_NAME (Correct Answer)
+      * gcloud compute instance pause $INSTANCE_NAME
+      * gcloud compute instances pause $INSTANCE_NAME
+      * gcloud compute instance stop $INSTANCE_NAME
+    * Question 3 of 5: Which interface allows you to execute machine learning model queries in BigQuery?
+      * Jupyter
+      * MQL
+      * Jupyter Lab
+      * SQL (Correct Answer)
+    * Question 4 of 5: You can use the _____ interface to access notebook features in a Vertex AI Notebook.
+      * Remote Desktop
+      * Jupyter
+      * SSH
+      * Jupyter Lab (Correct Answer)
+    * Question 5 of 5: You want to create a DLVM. What do you need to enable first?
+      * Vertex AI API (Correct Answer)
+      * GCS API
+      * GCE API
+      * API
 # 3. Tools for DevOps
-*
+* Using Google Cloud scripts with Cloud Shell for storage
 *
 *
 *
