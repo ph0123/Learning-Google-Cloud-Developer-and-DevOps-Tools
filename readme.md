@@ -68,17 +68,69 @@ Link: [Here](https://www.linkedin.com/learning/learning-google-cloud-developer-a
       * API
 # 3. Tools for DevOps
 * Using Google Cloud scripts with Cloud Shell for storage
-*
-*
-*
-*
-*
-*
+* Deploying a VM with Google Cloud script
+* Running GCP Deployments (Terraform)
+* Monitoring GCP with Cloud Logging
+* Monitoring GCP Security with SCC
+* Designing GCP Solutions with Architecture Diagramming (../architecture)
+* Quiz:
+  * Question 1 of 4: What would you use to quickly create a script to deploy a VM?
+    * the console (Correct Answer)  
+    * the terminal
+    * the SDK
+    * the notebook
+  * Question 2 of 4: You can use the _____ tool to interact with Cloud Storage.
+    * gstorage
+    * gcloud bucket
+    * gsutil (Correct Answer)  
+    * bq
+  * Question 3 of 4: The GCP SCC tools read from the Google Cloud _____ service.
+    * monitoring
+    * management
+    * logging (Correct Answer) 
+    * observability
+  * Question 4 of 4: Google Cloud references architectures can be drawn using _____ tools.
+    * Integrated
+    * Premium
+    * Free (Correct Answer) 
+    * Enterprise
 # 4. Tools for Developers
-*
-*
-*
-*
-*
-*
-*
+* Coding with the GCP local Google Cloud SDK
+* Coding with the GCP add-in for VSCode
+  * 1. install google cloud sdk
+  * 2. intrall add-in "Cloud Code"
+* Storing code in Cloud Source Repositories
+* Storing artifacts in GCR or Artifact Registry
+* Storing secrets in Secrets Manager
+* Implementing CI/CD with Cloud Build
+* Quiz
+  * Question 1 of 6: Google Cloud Source Repositories are designed to store _____.
+    * application code (Correct Answer) 
+    * docker container images
+    * key-value pairs
+    * secrets
+  * Question 2 of 6: You want to use the Google Cloud add-in for VSCode. What do you need to install locally?
+    * Google Drive
+    * Google Colabs
+    * Google Authenticator
+    * Google Cloud SDK (Correct Answer)
+  * Question 3 of 6: Stored secrets as _______
+    * named sets
+    * named keyrings
+    * named secrets  (Correct Answer)
+    * named images
+  * Question 4 of 6: What can you store in the Artifact Registry?
+    * application code
+    * jar files (Correct Answer)
+    * dockerfiles
+    * certificates
+  * Question 5 of 6: Where are CloudBuild outputs pushed to?
+    * Cloud Source Repositories
+    * Container Registry
+    * Artifact Registry  (Correct Answer)
+    * Secrets Manager
+  * Question 6 of 6: What command would you use to authenticate to the local GCP SDK?
+    * gcloud login
+    * gcloud int
+    * gcloud auth login  (Correct Answer)
+    * gcloud info
